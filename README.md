@@ -1,8 +1,8 @@
 # vue-music
 
-> 根据大神的思路进行开发，在学习开发过程中更加深入了解vue，接口抓取自qq音乐。
-> 学习完之后按自己的思路重新写一遍真的能学到很多能够用到实际项目的开发的思想和思路，这里特别感谢慕课老师提供的学习资料！！！
-> 目前还没开发完成，排行跟搜索还在开发中。。。
+* 根据大神的思路进行开发，在学习开发过程中更加深入了解vue，接口抓取自qq音乐。
+* 学习完之后按自己的思路重新写一遍真的能学到很多能够用到实际项目的开发的思想和思路，这里特别感谢慕课老师提供的学习资料！！！
+* 目前还没开发完成，排行跟搜索还在开发中。。。
 
 ## Build Setup
 
@@ -37,4 +37,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 主要页面：播放器内核页、推荐页、歌单详情页、歌手页、歌手详情页、排行页、搜索页、添加歌曲页、个人中心页
 
 ### 项目截图
-![](https://github.com/yufengji/vue-music/blob/master/static/images/home.jpg?raw=true)
+![](https://github.com/yufengji/vue-music/blob/master/static/images/%E6%9C%AA%E6%A0%87%E9%A2%98-2.jpg?raw=true)
